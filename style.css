@@ -70,8 +70,8 @@ section.intro .cover{background-size:cover;background-position:center;background
   -o-transform-origin: 0 0;
   transform-origin: 0 0;
   list-style:none;
-  bottom: 270px;
-  left: -200px;
+  bottom: 300px;
+  left: -400px;
   -webkit-transform: rotate(-17deg);
   -moz-transform: rotate(-17deg);
   -ms-transform: rotate(-17deg);
